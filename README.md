@@ -1,0 +1,2 @@
+# ML_projects_Fastai
+hey there this is my fisrt ML project that i tried my hands upon after a few lessons in the Fastai course. After learning about the basics of image classification using neural nets and a powerful neural net arch like CNN, i was able to classify between a covid infected lung xray and a non infected one. i used mixup and data augmentation as the minority class which was the covid class had much lesser population than the other one. the dataset that i used : https://github.com/shervinmin/DeepCovid.git 
